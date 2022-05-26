@@ -35,7 +35,6 @@ set :bind, '0.0.0.0'
 # 5
 # 6
 #7
-#8
 
 class GHAapp < Sinatra::Application
 
